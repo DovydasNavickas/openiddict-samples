@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:12345/"
+      "applicationUrl": "http://localhost:5112/"
     }
   },
 
@@ -11,7 +11,7 @@
     "Kestrel": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:12345/",
+      "applicationUrl": "http://localhost:5112/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
